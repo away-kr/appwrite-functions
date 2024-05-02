@@ -15,7 +15,7 @@ def main(context):
     # )
 
     # You can log messages to the consol
-    return context.res.send("Hello, World!")
+    return context.res.send("Hello, man!")
 
     # `ctx.res.json()` is a handy helper for sending JSON
     return context.res.json(
